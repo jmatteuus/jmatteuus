@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎓Student software engineer<br></> Software developer<br> Computer science.<br><br><br>💡"Interesse profundo pelas ciências e exatas, mas foi na computação que me encontrei."<br>"Deep interest in science and mathematics, but it was in computing that I found my true passion."</p>
+<p align="center">🎓Student software engineer<br></> Software developer<br> Computer science<br><br><br>💡"Interesse profundo pelas ciências e exatas, mas foi na computação que me encontrei."<br>"Deep interest in science and mathematics, but it was in computing that I found my true passion."</p>
 
 ###
 

@@ -41,8 +41,6 @@
   <img width="20" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bigquery" height="35" alt="google bigquery logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="apache kafka logo"  />
-  <img width="20" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" height="35" alt="apache airflow logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />

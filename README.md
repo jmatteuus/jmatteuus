@@ -52,8 +52,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
   <img width="20" />
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="35" alt="power bi logo"  />
-  <img width="20" />
-  <img src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/fabric/fabric.svg" height="35" alt="microsoft fabric logo"  />
 </div>
 
 ###

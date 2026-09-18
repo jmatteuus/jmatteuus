@@ -2,7 +2,13 @@
 
 ###
 
-<p align="center">🎓Student software engineer<br></> Software developer<br> Data engineer<br><br><br>💡"Interesse profundo pelas ciências e exatas, mas foi na computação que me encontrei."<br>"Deep interest in science and mathematics, but it was in computing that I found my true passion."</p>
+<p align="center">
+  Data Analyst<br>
+  Data Engineer<br>
+  Software Engineering<br><br><br>
+  <code>NCC-1701/7</code><br>
+  Somewhere between data, code and curiosity.
+</p>
 
 ###
 
@@ -19,36 +25,49 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="35" alt="python logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=spark" height="35" alt="apache spark logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="35" alt="azure logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazon web services logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=databricks" height="35" alt="databricks logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="35" alt="sql server logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="35" alt="postgresql logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bigquery" height="35" alt="google bigquery logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ai" height="35" alt="adobeillustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="apache kafka logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" height="35" alt="apache airflow logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="35" alt="networkx logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="35" alt="power bi logo"  />
+  <img width="20" />
+  <img src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/fabric/fabric.svg" height="35" alt="microsoft fabric logo"  />
 </div>
+
+###
+
+<h2 align="left">Certifications 🏆</h2>
+
+###
+
+<p align="left">
+  <strong>AZ-900</strong> · Microsoft Certified: Azure Fundamentals<br>
+  <strong>DP-900</strong> · Microsoft Certified: Azure Data Fundamentals<br>
+  <strong>PL-300</strong> · Microsoft Certified: Power BI Data Analyst Associate<br>
+  <strong>Databricks</strong> · Academy Accreditation - Databricks Lakehouse Fundamentals
+</p>
 
 ###
 
@@ -57,10 +76,5 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmatteuus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jmatteuus&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
 
 ###

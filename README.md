@@ -59,6 +59,7 @@
 ###
 
 <p align="left">
+  <strong>DP-600</strong> · Microsoft Certified: Analytics Engineer Associate<br>
   <strong>AZ-900</strong> · Microsoft Certified: Azure Fundamentals<br>
   <strong>DP-900</strong> · Microsoft Certified: Azure Data Fundamentals<br>
   <strong>PL-300</strong> · Microsoft Certified: Power BI Data Analyst Associate<br>
